@@ -1,10 +1,4 @@
-nginx
 #支持私库
-docker.getcollate.io/openmetadata/db:1.4.7
-docker.elastic.co/elasticsearch/elasticsearch:8.10.2
-docker.getcollate.io/openmetadata/server:1.4.7
-docker.getcollate.io/openmetadata/ingestion:1.4.7
-provectuslabs/kafka-ui:latest
 acryldata/datahub-frontend-react:head
 acryldata/datahub-actions:head
 acryldata/datahub-gms:head
